@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.exe
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.deps.json
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.runtimeconfig.json
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.dll
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\bin\Debug\netcoreapp3.1\10.LadyBugs.pdb
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.dll
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.pdb
+C:\Users\dimit\source\repos\Arrays - Exercise\10.LadyBugs\obj\Debug\netcoreapp3.1\10.LadyBugs.genruntimeconfig.cache
